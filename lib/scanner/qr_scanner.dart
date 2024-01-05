@@ -51,7 +51,7 @@ class _QRScannerState extends State<QRScanner> {
 
                   controller.switchCamera();
                 },
-                icon: Icon(Icons.camera_front,
+                icon: Icon(Icons.flip_camera_ios_outlined,
                     color: isFrontCamera ? primaryColor2 : black54))
           ],
           iconTheme: IconThemeData(color: black54),
