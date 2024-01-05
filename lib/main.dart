@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         appBarTheme: AppBarTheme(
             centerTitle: true,
             titleTextStyle: style1,
-            backgroundColor: Colors.transparent,
+            backgroundColor: Colors.pink,
             elevation: 0.0),
         primarySwatch: Colors.orange,
         textTheme: GoogleFonts.latoTextTheme(textTheme).copyWith(
