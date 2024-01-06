@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 import 'loginPage.dart';
 import 'widget/bezierContainer.dart';
 
@@ -27,8 +26,10 @@ class _SignUpPageState extends State<SignUpPage> {
               padding: const EdgeInsets.only(left: 0, top: 10, bottom: 10),
               child: const Icon(Icons.keyboard_arrow_left, color: Colors.black),
             ),
-            const Text('Back',
-                style: TextStyle(fontSize: 12, fontWeight: FontWeight.w500))
+            const Text(
+              'Back',
+              style: TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+            )
           ],
         ),
       ),
