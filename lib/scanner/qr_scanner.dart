@@ -107,7 +107,7 @@ class _QRScannerState extends State<QRScanner> {
               children: [
                 Text("Developed by Godson Chinatu", style: style3),
                 Text("Supervised by Mr. Ogwo Eme", style: style3),
-                Text("Verified by Sever Emmanuel", style: style3),
+                Text("Verified by E. Okpomechile", style: style3),
               ],
             )),
           ],
